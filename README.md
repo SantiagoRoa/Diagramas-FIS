@@ -1,6 +1,6 @@
-# Talleres Fundamentos de Ingeniería de Software
-## Universidad Distrital Francisco José de Caldas
+# Diagramas de diseño
 ## Taller #2 Fundamentos de Ingeniería de Software
+### Universidad Distrital Francisco José de Caldas
 
 ## Miembros del equipo
 - Nelson Santiago Roa Garzón - 20172020099 
